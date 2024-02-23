@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment6-2.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #6 Part II
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                October 9, 2023
-//
 //     This program shows the size, numbers of letter, digits, numbers of lower
 //     and upper case letters, last character, character at index 16, index of
 //     the first and second 'a' of the string.
